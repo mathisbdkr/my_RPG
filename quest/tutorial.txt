@@ -1,0 +1,7 @@
+Press E to interact with people
+To live move you have Press z q s d to Move
+To stay alive attack you have to press f to attack
+Defense is the best way to not attack, press g to defense
+Press i to see the inventory
+Congraluations you finish your formation jedi,
+i have a mission for you
